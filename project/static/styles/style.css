@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: #222224;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+}
+.header_in {
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+}
+.left_header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+    width: 107px;
+    height: 75px;
+}
+.right_header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: space-between;
+    width: 154px;
+    height: 75px;
+}
+.ellipse-6 {
+    margin-bottom: 35px;
+    margin-left: -45px;
+}
+main {
+    background-color: #F1E4E6;
+    display: flex;
+    justify-content: center;
+}
+.body_main {
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F1E4E6;
+}
+.body_left{
+    margin-left: -113px;
+    height: 700px;
+    
+}
+
+.body_right {
+    padding-top: 230px;
+    padding-bottom: 363px;
+    margin-right: 113px;
+    display: flex;
+    
+}
+.main_text_div{
+    margin-left: 16px;
+}
+.main_text{
+    color: #222;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 1000;
+    font-style: normal;
+}
+.of_lux {
+    color: #222;
+    font-family: Lato;
+    font-size: 32px;
+}
+.fashion {
+    color: #F16D7F;
+    font-family: Lato;
+    font-size: 32px;
+} 
